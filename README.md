@@ -1,6 +1,6 @@
 # CS59000_06_Ethical_Artificial_Intelligence
 
-# Ethical AI Fake News Detection System
+# Fake News Detection System
 
 This project implements a multi-model AI system to detect fake news ethically and accurately using a cleaned, balanced version of the [FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus). It applies preprocessing, label filtering, text cleaning, and supports further modeling for classification.
 
