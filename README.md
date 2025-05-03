@@ -6,7 +6,7 @@ This project implements a multi-model AI system to detect fake news ethically an
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - **Source:** [FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus)
 - **Used File:** `news_cleaned_big.csv`
@@ -20,7 +20,7 @@ This project implements a multi-model AI system to detect fake news ethically an
 
 ---
 
-## 🧹 Preprocessing Steps
+## Preprocessing Steps
 
 1. **Dropped unnecessary columns**  
    (e.g., `url`, `meta_keywords`, `authors`, etc.)
@@ -38,14 +38,14 @@ This project implements a multi-model AI system to detect fake news ethically an
 
 ---
 
-## 📊 Exploratory Analysis
+## Exploratory Analysis
 
 - Used Seaborn to visualize distribution of news types.
 - Y-axis formatted in thousands (e.g., 100K).
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 Install dependencies:
 ```bash
